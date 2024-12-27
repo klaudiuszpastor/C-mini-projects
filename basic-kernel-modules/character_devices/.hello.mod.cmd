@@ -1,0 +1,1 @@
+cmd_/home/klaudiusz/Projects/C-mini-projects/basic-kernel-modules/character_devices/hello.mod := printf '%s\n'   hello.o | awk '!x[$$0]++ { print("/home/klaudiusz/Projects/C-mini-projects/basic-kernel-modules/character_devices/"$$0) }' > /home/klaudiusz/Projects/C-mini-projects/basic-kernel-modules/character_devices/hello.mod

@@ -1,0 +1,1 @@
+cmd_/home/klaudiusz/Projects/C-mini-projects/basic-kernel-module/Module.symvers :=  sed 's/ko$$/o/'  /home/klaudiusz/Projects/C-mini-projects/basic-kernel-module/modules.order | scripts/mod/modpost -m      -o /home/klaudiusz/Projects/C-mini-projects/basic-kernel-module/Module.symvers -e -i Module.symvers -T - 
