@@ -1,1 +1,0 @@
-cmd_/home/klaudiusz/Projects/C-mini-projects/basic-kernel-module/modules.order := {   echo /home/klaudiusz/Projects/C-mini-projects/basic-kernel-module/hello.ko; :; } > /home/klaudiusz/Projects/C-mini-projects/basic-kernel-module/modules.order
